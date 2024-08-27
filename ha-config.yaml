@@ -1,1 +1,4 @@
+custom_cards:
+  - url: /local/my-google-search-card.js
+    type: module
 
