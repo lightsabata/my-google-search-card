@@ -1,0 +1,11 @@
+{
+    "domain": "my_google_search_card",
+    "name": "My Google Search Card",
+    "version": "1.0.0",
+    "resources": [
+        {
+            "url": "/local/my-google-search-card.js",
+            "type": "module"
+        }
+    ]
+}
