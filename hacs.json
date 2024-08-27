@@ -1,0 +1,10 @@
+{
+  "name": "My Google Search Card",
+  "content_in_root": true,
+  "homeassistant": {
+    "versions": [
+      "2023.8.0",
+      "2024.0.0"
+    ]
+  }
+}
