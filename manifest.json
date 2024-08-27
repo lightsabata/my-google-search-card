@@ -4,13 +4,8 @@
   "version": "1.0.0",
   "resources": [
     {
-      "url": "/local/my-google-search-card.js",
+      "url": "/hacsfiles/my_google_search_card/my-google-search-card.js",
       "type": "module"
     }
-  ],
-  "homeassistant": {
-    "versions": [
-      "2024.8.3"
-    ]
-  }
+  ]
 }
